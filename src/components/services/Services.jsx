@@ -93,15 +93,15 @@ function Services() {
             </li>
             <li> 
               <BiCheck className='service__list-icon' />
-              <p>Integrating Sociak Media.</p>
+              <p>Integrating Social Media.</p>
             </li>
             <li> 
               <BiCheck className='service__list-icon' />
-              <p>Automated Mails and Replies.</p>
+              <p>Automated Mail's and Replies.</p>
             </li>
             <li> 
               <BiCheck className='service__list-icon' />
-              <p>Graphic Design, Logo Design and ad Design.</p>
+              <p>Graphic Design, Logo Design and add Design.</p>
             </li>
             <li> 
               <BiCheck className='service__list-icon' />
